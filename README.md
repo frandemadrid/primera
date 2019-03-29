@@ -1,0 +1,2 @@
+# primera
+memoria 1
